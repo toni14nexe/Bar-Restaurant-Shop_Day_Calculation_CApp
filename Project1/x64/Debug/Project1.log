@@ -1,0 +1,25 @@
+﻿  Functions.cpp
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(193,20): warning C4101: 'art1': unreferenced local variable
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(627,64): warning C4474: 'printf' : too many arguments passed for format string
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(627,64): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(629,42): warning C4474: 'printf' : too many arguments passed for format string
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(629,42): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(676,28): warning C4101: 'znak': unreferenced local variable
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(805,63): warning C4474: 'printf' : too many arguments passed for format string
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(805,63): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(807,41): warning C4474: 'printf' : too many arguments passed for format string
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(807,41): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Main.cpp
+D:\Faks\2. god\Programiranje\Project1\Project1\Main.cpp(35,12): warning C4129: 'i': unrecognized character escape sequence
+  Generating Code...
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(133): warning C4715: 'unosRobe': not all control paths return a value
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(239): warning C4715: 'unosNovogaArtikla': not all control paths return a value
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(182): warning C4715: 'otpisRobe': not all control paths return a value
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(384): warning C4715: 'brisanjeArtikla': not all control paths return a value
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(427): warning C4715: 'izmjenaNaziva': not all control paths return a value
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(469): warning C4715: 'izmjenaCijene': not all control paths return a value
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(542): warning C4715: 'sortiranjeArtikala': not all control paths return a value
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(849): warning C4715: 'zakljucakRadnogaDana': not all control paths return a value
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(667): warning C4715: 'ispravakStanja': not all control paths return a value
+D:\Faks\2. god\Programiranje\Project1\Project1\Functions.cpp(716): warning C4715: 'pregledObracuna': not all control paths return a value
+  Project1.vcxproj -> D:\Faks\2. god\Programiranje\Project1\x64\Debug\Project1.exe

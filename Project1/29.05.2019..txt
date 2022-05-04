@@ -1,0 +1,41 @@
+7
+/
+Becks
+27.00
+10.00
+270.00
+/
+Cola
+25.00
+10.00
+250.00
+/
+Fanta
+4.00
+10.00
+40.00
+/
+Jana
+4.00
+10.00
+40.00
+/
+Limunada
+3.00
+10.00
+30.00
+/
+Pivo_0.5
+120.00
+13.00
+1560.00
+/
+Vukovarsko_pivo
+19.00
+12.00
+228.00
+
+	Ostali troskovi: 9.99 KN
+	Predano: 173.00 KN
+	Ukupni promet: 182.99 KN
+	Baksa: -9.99 KN
